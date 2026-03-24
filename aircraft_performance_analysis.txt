@@ -1,0 +1,13 @@
+Aircraft Performance Analysis
+
+Range (miles): 3000.0
+Endurance (hours): 20.0
+Total Weight (lb): 11000
+CG Position (ft): 8.3333
+Lift (N): 183750.0
+Drag (N): 12250.0
+Weight (N): 49050.0
+Acceleration (m/s^2): 0.4
+Velocity (m/s): 54.0
+Distance (m): 540.0
+Lift-to-Drag Ratio: 15.0
